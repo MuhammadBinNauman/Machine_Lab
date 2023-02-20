@@ -1,4 +1,4 @@
 
 ![](ink.jpg)
-![](plateandink.jpg)
+![](pic1.jpg)
 ![](paper.jpg)
