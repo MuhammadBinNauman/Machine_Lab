@@ -5,7 +5,7 @@ Related to the theme of the UAE I wanted to make a rotating diorama clock where 
 ### Pictures 
 
 #### Example of overall structure 
-![](pic1.jpg)
+![](pic_1.jpg)
 
 The idea will be to have a sort of rotating plate what will be divided into three segemnts each segment being its own diorama that will show different aspects of the UAE.
 The dotted line represents the casing/frame that the clock will be inside and the active diorama will protude outside the frame/casing. The rotating mechanism will be a
@@ -17,7 +17,7 @@ Next is the side view of the mechanism here the we can see multiple plates that 
 dioramas with similar sub-themes.
 under each of the plates and under each plate segment will be the housing for mechanical and electronic componets.
 
-![](pic2.jpg)
+![](pic_2.jpg)
 
 #### Diorama example 
 
